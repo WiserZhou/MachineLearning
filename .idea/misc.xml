@@ -6,5 +6,8 @@
     <option name="pathToExecutable" value="D:\Anaconda\Scripts\black.exe" />
     <option name="sdkUUID" value="8fa2c432-aeb4-4103-893e-27634669e093" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.11 (pythonProject4)" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.11" project-jdk-type="Python SDK" />
+  <component name="SuppressionsComponent">
+    <option name="suppComments" value="[]" />
+  </component>
 </project>
